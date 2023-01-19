@@ -19,7 +19,6 @@ Powerful Discord Nuker
 ```
 1. Scrape The Server Information.
 2. Must have "Administrator" Permission On The Server.
-
 ```
 
 
