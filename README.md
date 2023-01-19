@@ -12,7 +12,7 @@ Powerful Discord Nuker
 
 **This is The Best Nukers You Will Ever See. It's very Simple to Use And You Will Not Regret About It.**
 
-# 🔗 Usage
+# Usage
 
 **After Running This Nuker On Replit , You have to put your TOKEN On The Console. Before Nuking Any Server These Are Steps You Must Do:**
 
